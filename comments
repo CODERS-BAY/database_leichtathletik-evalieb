@@ -1,0 +1,11 @@
+Hallo Eva, 
+
+Hier sind meine Kommentare zu deiner Abgabe: 
+Du hast die Primarykeys in den meisten Tabellen richtig gesetzt und die Datentypen sinnvoll vergeben. 
+Bei der Kreuztabelle für die Helfer sollte der Primarykey ein zusammengesetzter Primarykey sein. 
+Also helper_id und event_id sollten beide gemeinsam den Primary Key bilden. Es wird dann kein künstlicher zusätzlicher Primarykey benötigt. 
+
+Auch die Fremdschlüssel sind fast alle richtig gesetzt. Das einzige was mir nicht gefällt ist, dass nur eine Competition bei deinem Event stattfinden kann. 
+Hier hast du den Fremdschlüssel an der falschen Stelle gesetzt. 
+
+Ansonsten sieht deine Datenbank echt super aus! Morgen gibt es dann mehr dazu!
